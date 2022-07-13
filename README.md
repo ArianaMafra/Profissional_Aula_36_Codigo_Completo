@@ -16,13 +16,13 @@ https://console.firebase.google.com/
 ![img 3](https://user-images.githubusercontent.com/87487865/178766040-8068017f-5def-4858-a29b-dcd696456cd8.png)
 
 5- VAI ESPERAR CRIAR 
-
 6 - CLICA EM CONTINUAR
 ![img4](https://user-images.githubusercontent.com/87487865/178766448-c116c8d0-7857-4010-8c7a-c491e7c5ff61.png)
 
 7 - CLICA EM CRIAÇÃO NA CAIXA DA ESQUERDA
     DENTRO DE CRIAÇÃO VAI TER UMA CAIXA ESCRITA REALTIME DATABASE
     CLICA NELA
+    ![img5](https://user-images.githubusercontent.com/87487865/178766921-af920746-1261-42df-98c4-33613218fcae.png)
     
 8- CLICA EM CRIAR BANCO DE DADOS
 
