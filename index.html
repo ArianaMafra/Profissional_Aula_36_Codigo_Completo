@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+      <meta charset="utf-8" />
+      <title>Corrida de Carros</title>
+      <!-- Lib -->
+      <script src="./lib/p5.min.js"></script>
+      <script src="./lib/p5.dom.min.js"></script>
+      <script src="./lib/p5.sound.min.js"></script>
+      <script src="./lib/p5.play.js"></script>
+
+      <link rel="stylesheet" href="style.css" />
+      <!--Firebase-->
+      <!--PRECISAMOS AJUSTAR O SCRIPT PARA O FIREBASE RODAR DIREITINHO-->
+      <script src="https://www.gstatic.com/firebasejs/8.4.1/firebase-app.js"></script>
+      <script src="https://www.gstatic.com/firebasejs/8.4.1/firebase-database.js"></script>
+      
+      <script src="./js/Game.js"></script>
+      <script src="./js/Form.js"></script>
+      <script src="./js/Player.js"></script>
+
+      <!-- ADICIONAR CÓDIGO Firebase SDK ABAIXO -->
+      <!-- CRIAR ENDEREÇO NO FIREBASE E SUBSTITUIR O QUE ESTA AQUI!  -->
+      <!-- NO README TEM O PASSO A PASSO PARA FAZER SEU FIREBASE -->
+        <script>
+            const firebaseConfig = {
+              apiKey: "AIzaSyDpOju1ihSXZJwY4RKYpGBbnGatdjK86qE",
+              authDomain: "jogo-carrinho.firebaseapp.com",
+              databaseURL: "https://jogo-carrinho-default-rtdb.firebaseio.com",
+              projectId: "jogo-carrinho",
+              storageBucket: "jogo-carrinho.appspot.com",
+              messagingSenderId: "179127830761",
+              appId: "1:179127830761:web:68ec451028db0c81e78878"
+            };
+
+            firebase.initializeApp(firebaseConfig);
+      </script>
+
+  </head>
+
+    <body>
+      
+      <script src="./sketch.js"></script>
+    </body>
+</html>
