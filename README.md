@@ -13,6 +13,7 @@ https://console.firebase.google.com/
 ![img 2](https://user-images.githubusercontent.com/87487865/178765541-ff6f69e8-176c-45ed-86a5-c0ff31175285.png)
 
 4- DESABILITAR GOOGLE ANALYTICS E CLICA EM CRIAR
+![img 3](https://user-images.githubusercontent.com/87487865/178766040-8068017f-5def-4858-a29b-dcd696456cd8.png)
 
 5- VAI ESPERAR CRIAR 
 
