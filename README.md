@@ -6,6 +6,8 @@
 https://console.firebase.google.com/
 
 2- CRIAR NOVO PROJETO
+![img1](https://user-images.githubusercontent.com/87487865/178764892-59ec363d-bcd6-4c63-8baa-d2730297e061.png)
+
 
 3- COLOCAR UM NOME NO PROJETO
 
