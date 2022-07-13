@@ -49,7 +49,8 @@ https://console.firebase.google.com/
   > ![img10](https://user-images.githubusercontent.com/87487865/178770327-46deff58-1f33-4e70-b975-0a07194be011.png)
  
 12 - Agora clica no botão adicionar
-> ![img10](https://user-images.githubusercontent.com/87487865/178770327-46deff58-1f33-4e70-b975-0a07194be011.png)
+> ![img11](https://user-images.githubusercontent.com/87487865/178770358-8f9142c4-54bd-4d1d-bf20-77eb0e5fe988.png)
+
 
 13- No canto esquerdo vai ter o simbolode casinha  e do lado esta escrito visão geral do projeto 
     Clica nele
