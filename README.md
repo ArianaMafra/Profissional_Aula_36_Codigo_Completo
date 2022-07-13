@@ -26,13 +26,15 @@ https://console.firebase.google.com/
     ![img5](https://user-images.githubusercontent.com/87487865/178766921-af920746-1261-42df-98c4-33613218fcae.png)
     
 8- CLICA EM CRIAR BANCO DE DADOS
+> ![img6](https://user-images.githubusercontent.com/87487865/178770154-f0f254e1-ba61-44b4-9cee-eb609eb1533f.png)
 
 9 - DEIXA NOS ESTADOS UNIDOS
+https://github.com/ArianaMafra/Profissional_Aula_36_Codigo_Completo/issues/7#issue-1303593339
 
 10- COLOCA EM MODE TESTE E CLICA EM ATIVAR
 
 -> AGORA VAI APARECER UMA TELA BRANCA COM UM ENDEREÇO PARECIDO COM ESSE: 
-https:/testando-665fe/database/testando-665fe-default-rtdb/data/~2F?hl=pt-br
+
 
 11- CLICA NO SIMBOLO "+"
   vai aparecer uma caixa escrita chave dentro e valor 
