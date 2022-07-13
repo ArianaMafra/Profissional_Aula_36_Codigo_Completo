@@ -10,6 +10,7 @@ https://console.firebase.google.com/
 
 
 3- COLOCAR UM NOME NO PROJETO
+![img 2](https://user-images.githubusercontent.com/87487865/178765541-ff6f69e8-176c-45ed-86a5-c0ff31175285.png)
 
 4- DESABILITAR GOOGLE ANALYTICS E CLICA EM CRIAR
 
